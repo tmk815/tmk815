@@ -1,6 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmk815&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tmk815&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![](https://raw.githubusercontent.com/tmk815/tmk815/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tmk815/tmk815/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tmk815/tmk815/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tmk815/tmk815/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tmk815/tmk815/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <p align="left"> 
