@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmk815&show_icons=true&theme=radical)
+
+
 <p align="left"> 
   <a href="https://github.com/tmk815/tmk815/">
     <img src="https://komarev.com/ghpvc/?username=tmk815" alt="tmk815" />
